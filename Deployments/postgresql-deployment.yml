@@ -1,0 +1,91 @@
+﻿apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: postgresql-configmap
+  labels:
+    app: postgresql-configmap
+data:
+  POSTGRES_DB: weatherdb
+  POSTGRES_USER: postgres
+  POSTGRES_PASSWORD: admin123
+
+---
+
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: postgresql-pv
+  labels:
+    type: local
+spec:
+  storageClassName: manual
+  capacity:
+    storage: 5Gi
+  accessModes:
+    - ReadWriteOnce
+  hostPath:
+    path: "/mnt/data"
+
+---
+
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: postgresql-pvc
+spec:
+  storageClassName: manual
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 2Gi
+
+---
+
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: postgresql-deployment
+spec:
+  serviceName: postgresql-deployment
+  replicas: 1
+  selector:
+    matchLabels:
+      app: postgresql-deployment
+  template:
+    metadata:
+      labels:
+        app: postgresql-deployment
+    spec:
+      containers:
+        - name: postgresql-deployment
+          image: postgres
+          imagePullPolicy: "IfNotPresent"
+          ports:
+            - containerPort: 5432
+          envFrom:
+            - configMapRef:
+                name: postgresql-configmap
+          #volumeMounts:
+          #  - mountPath: /var/lib/postgresql/data
+          #    name: weatherdb
+      #volumes:
+      #  - name: weatherdb
+      #    persistentVolumeClaim:
+      #      claimName: postgresql-pvc
+                
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: postgresql-service
+  labels:
+    app: postgresql-service
+spec:
+  ports:
+  - port: 5432
+    targetPort: 5432
+  type: LoadBalancer
+  selector:
+    app: postgresql-deployment

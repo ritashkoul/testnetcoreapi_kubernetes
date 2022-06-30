@@ -1,0 +1,40 @@
+﻿apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: grokexporter-configmap
+data:
+  config.yml: |-
+    global:
+      config_version: 2
+    input:
+      type: file
+      fail_on_missing_logfile: false
+      path: /var/log/applogs.log
+      readall: false
+    grok:
+       patterns_dir: ./patterns
+    metrics:
+      - type: counter
+        name: weatherapi_hit_count
+        help: Total number of times WeatherAPI is called
+        match: '%{USER:apiName} is called'
+        labels:
+          apiName: '{{.apiName}}'
+    server:
+      port: 9144
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: grokexporter-service
+  labels:
+    sidecar: grokexporter-service
+spec:
+  type: LoadBalancer
+  ports:
+    - targetPort: 9144
+      port: 9144
+  selector:
+    sidecar: grokexporter-deployment

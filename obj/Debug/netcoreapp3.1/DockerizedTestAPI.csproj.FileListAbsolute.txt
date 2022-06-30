@@ -1,0 +1,333 @@
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.exe
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.deps.json
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.runtimeconfig.json
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.runtimeconfig.dev.json
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.pdb
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.AssemblyInfoInputs.cache
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.AssemblyInfo.cs
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\DockerizedTestAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\DockerizedTestAPI.StaticWebAssets.xml
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\DockerizedTestAPI.styles.css
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.csproj.CopyComplete
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.pdb
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.genruntimeconfig.cache
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\EFCore.NamingConventions.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\Ritesh\OneDrive\Desktop\task\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.exe
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.deps.json
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.runtimeconfig.json
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.runtimeconfig.dev.json
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.pdb
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\EFCore.NamingConventions.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.csproj.AssemblyReference.cache
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.AssemblyInfoInputs.cache
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.AssemblyInfo.cs
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.csproj.CoreCompileInputs.cache
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\DockerizedTestAPI.StaticWebAssets.Manifest.cache
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\DockerizedTestAPI.StaticWebAssets.xml
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\DockerizedTestAPI.styles.css
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.RazorTargetAssemblyInfo.cache
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.csproj.CopyComplete
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.dll
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.pdb
+C:\Ritash\Codebase\MyRepos\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.genruntimeconfig.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.exe
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.deps.json
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.runtimeconfig.json
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.runtimeconfig.dev.json
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.pdb
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\EFCore.NamingConventions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.csproj.AssemblyReference.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.AssemblyInfoInputs.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.AssemblyInfo.cs
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.csproj.CoreCompileInputs.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\DockerizedTestAPI.StaticWebAssets.Manifest.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\DockerizedTestAPI.StaticWebAssets.xml
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\DockerizedTestAPI.styles.css
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.RazorTargetAssemblyInfo.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.csproj.CopyComplete
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.pdb
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.genruntimeconfig.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\MQTTnet.AspNetCore.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.AssemblyInfoInputs.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.AssemblyInfo.cs
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.csproj.CoreCompileInputs.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.pdb
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.exe
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.deps.json
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.runtimeconfig.json
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.runtimeconfig.dev.json
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.pdb
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\EFCore.NamingConventions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\MQTTnet.AspNetCore.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\DockerizedTestAPI.StaticWebAssets.Manifest.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\DockerizedTestAPI.StaticWebAssets.xml
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\DockerizedTestAPI.styles.css
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.RazorTargetAssemblyInfo.cache
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.csproj.CopyComplete
+C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\obj\Debug\netcoreapp3.1\DockerizedTestAPI.genruntimeconfig.cache

@@ -1,0 +1,112 @@
+﻿apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mqtt-configmap
+  labels:
+    app: mqtt-configmap
+data:
+  password_file: |-
+    admin:$7$101$3BT1W9A36TAQucti$9oNVFaQh9VLKM1CIIm6a6qtqUSVoEkTmD6mv9BtUSLPLXx+JRPwT9O+ebsWElddWetHUprU2p/mUduKfn4VdWA==
+    #admin:admin
+  mosquitto.conf: |-
+    # Ip/hostname to listen to.
+    # If not given, will listen on all interfaces
+    #bind_address
+
+    # Port to use for the default listener.
+    listener 1883 
+
+    # Allow anonymous users to connect?
+    # If not, the password file should be created
+    allow_anonymous false
+
+    # The password file.
+    # Use the `mosquitto_passwd` utility.
+    # If TLS is not compiled, plaintext "username:password" lines bay be used
+    password_file /mosquitto/password_file
+
+---
+
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: mqtt-pv
+  labels:
+    type: local
+spec:
+  storageClassName: manual
+  capacity:
+    storage: 5Gi
+  accessModes:
+    - ReadWriteOnce
+  hostPath:
+    path: "/mnt/data"
+
+---
+
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: mqtt-pvc
+spec:
+  storageClassName: manual
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 2Gi
+
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mqtt-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mqtt-deployment
+  template:
+    metadata:
+      labels:
+        app: mqtt-deployment
+    spec:
+      containers:
+        - name: mqtt-deployment
+          image: eclipse-mosquitto
+          imagePullPolicy: "IfNotPresent"
+          ports:
+            - containerPort: 1883
+          volumeMounts:
+            - mountPath: /mosquitto/config/mosquitto.conf
+              name: mqtt-configmap
+              subPath: mosquitto.conf
+            - mountPath: /mosquitto/password_file
+              name: mqtt-configmap
+              subPath: password_file
+            - mountPath: /mosquitto/data
+              name: mqttdata
+      volumes:
+        - name: mqtt-configmap
+          configMap:
+            name: mqtt-configmap
+        - name: mqttdata
+          persistentVolumeClaim:
+            claimName: mqtt-pvc
+                
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: mqtt-service
+  labels:
+    app: mqtt-service
+spec:
+  ports:
+  - port: 1883
+    targetPort: 1883
+  type: LoadBalancer
+  selector:
+    app: mqtt-deployment

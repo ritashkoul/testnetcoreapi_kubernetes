@@ -1,0 +1,106 @@
+﻿apiVersion: v1
+kind: Service
+metadata:
+  name: zookeeper
+  labels:
+    name: zookeeper
+spec:
+  ports:
+  - name: client
+    port: 2181
+    protocol: TCP
+  - name: follower
+    port: 2888
+    protocol: TCP
+  - name: leader
+    port: 3888
+    protocol: TCP
+  type: LoadBalancer
+  selector:
+    name: zookeeper
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: kafka
+  labels:
+    name: kafka
+spec:
+  ports:
+  - port: 9092
+    protocol: TCP
+  type: LoadBalancer
+  selector:
+    name: kafka
+
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: zookeeper
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: zookeeper
+  template:
+    metadata:
+      labels:
+        app: zookeeper
+    spec:
+      containers:
+      - env:
+        - name: ZOOKEEPER_ID
+          value: "1"
+        - name: ZOOKEEPER_SERVER_1
+          value: zookeeper
+        - name: ALLOW_ANONYMOUS_LOGIN 
+          value: "true"
+        - name: ZOOKEEPER_CLIENT_PORT
+          value: "2181"
+        name: zookeeper
+        image: confluentinc/cp-zookeeper
+        ports:
+        - containerPort: 2181
+
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kafka
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: kafka
+  template:
+    metadata:
+      labels:
+        app: kafka
+    spec:
+      containers:
+      - env:
+        - name: KAFKA_AUTO_CREATE_TOPICS_ENABLE
+          value: "true"
+        - name: KAFKA_ZOOKEEPER_CONNECT
+          value: zookeeper:2181
+        - name: KAFKA_CREATE_TOPICS
+          value: kakfatopic1:1:1,kafkatopic2:1:1
+        - name: KAFKA_LISTENER_SECURITY_PROTOCOL_MAP
+          value: IN:PLAINTEXT,OUT:PLAINTEXT
+        - name: KAFKA_ADVERTISED_LISTENERS
+          value: IN://localhost:9092,OUT://kafka.default.svc.cluster.local:9093
+        - name: KAFKA_LISTENERS
+          value: IN://localhost:9092,OUT://kafka.default.svc.cluster.local:9093
+        - name: KAFKA_INTER_BROKER_LISTENER_NAME
+          value: "IN"
+        - name: CONFLUENT_SUPPORT_CUSTOMER_ID
+          value: "anonymous"
+        name: kafka
+        image: confluentinc/cp-server
+        ports:
+        - containerPort: 9092

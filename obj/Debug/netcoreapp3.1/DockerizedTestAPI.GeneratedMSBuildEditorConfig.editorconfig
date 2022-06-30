@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DockerizedTestAPI
+build_property.ProjectDir = C:\Ritash\Codebase\MyRepos\KubernetesPOC - Copy\DockerizedTestAPI\

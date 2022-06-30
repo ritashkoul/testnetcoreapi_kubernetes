@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DockerizedTestAPI</id>
+    <version>1.0.0</version>
+    <authors>DockerizedTestAPI</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="EFCore.NamingConventions" version="1.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="3.1.11" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.StackExchangeRedis" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" version="1.10.13" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="Npgsql.EntityFrameworkCore.PostgreSQL" version="3.1.11" exclude="Build,Analyzers" />
+        <dependency id="Npgsql.EntityFrameworkCore.PostgreSQL.Design" version="1.1.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.AspNetCore" version="4.1.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Settings.Configuration" version="3.3.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Sinks.Console" version="4.0.1" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Sinks.File" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/netcoreapp3.1/appsettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.runtimeconfig.json" target="lib\netcoreapp3.1\DockerizedTestAPI.runtimeconfig.json" />
+    <file src="C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\bin\Debug\netcoreapp3.1\DockerizedTestAPI.dll" target="lib\netcoreapp3.1\DockerizedTestAPI.dll" />
+    <file src="C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\appsettings.json" target="content\appsettings.json" />
+    <file src="C:\Ritash\Codebase\MyRepos\KubernetesPOC\DockerizedTestAPI\appsettings.json" target="contentFiles\any\netcoreapp3.1\appsettings.json" />
+  </files>
+</package>

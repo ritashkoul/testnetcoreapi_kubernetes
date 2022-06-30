@@ -1,0 +1,63 @@
+﻿apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: prometheus-configmap
+data:
+  prometheus.yml: |-
+    global:
+      scrape_interval: 15s
+    scrape_configs:
+    - job_name: 'grok'
+      static_configs:
+      - targets: ['grokexporter-service:9144']
+
+---
+
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: prometheus-deployment
+spec:
+  selector:
+    matchLabels:
+      app: prometheus-deployment
+  replicas: 1
+  serviceName: prometheus-deployment
+  template:
+    metadata:
+      labels:
+        app: prometheus-deployment
+    spec:
+      containers:
+        - name: prometheus-deployment
+          image: prom/prometheus
+          imagePullPolicy: "IfNotPresent"
+          ports:
+            - containerPort: 9090
+          volumeMounts:
+            - name: prometheus-configmap
+              mountPath: /etc/prometheus
+            - name: prometheus-volume
+              mountPath: /prometheus
+      volumes:
+        - name: prometheus-volume
+          emptyDir: {}
+        - name: prometheus-configmap
+          configMap:
+            name: prometheus-configmap
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: prometheus-service
+  labels:
+    app: prometheus-service
+spec:
+  selector:
+    app: prometheus-deployment
+  type: LoadBalancer
+  ports:
+    - port: 9090
+      targetPort: 9090

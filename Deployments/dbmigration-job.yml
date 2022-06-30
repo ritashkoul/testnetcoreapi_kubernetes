@@ -1,0 +1,15 @@
+﻿apiVersion: batch/v1
+kind: Job
+metadata:
+  name: api-job
+spec: 
+  backoffLimit: 0
+  template:
+    spec:
+      containers:
+      - name: api-job
+        image: dbmigration
+        imagePullPolicy: IfNotPresent
+        command: ["dotnet"]
+        args: ["DockerizedTestAPI.dll", "migrate-database"]
+      restartPolicy: Never
